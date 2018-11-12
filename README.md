@@ -1,0 +1,418 @@
+Zadanie 1.01: Napisać program obliczający pole koła o podanym przez użytkownika promieniu (Wzór na pole koła P=pi*r*r). Uwaga: Wartość PI (3.1415) należy zadeklarować jako stałą.
+
+
+Zadanie 1.02: Napisać program obliczający pole prostokąta o podanych przez użytkownika bokach a i b (P=a*b).
+
+
+Zadanie 1.03: Napisać program obliczający pole trójkąta o podanych przez użytkownika: podstawie (a) i wysokości (h). P=0.5*a*h.
+
+
+Zadanie 1.04: Napisać program obliczający pole równoległoboku o podanych przez użytkownika przekątnych p i q. P=0.5*p*q.
+
+
+Zadanie 1.05: Napisać program obliczający pole trapezu o podanych przez użytkownika długościach podstaw (a i b), oraz wysokości (h). P=0.5*(a+b)*h.
+
+
+Zadanie 1.06: Napisać program obliczający obwód koła o podanym przez użytkownika promieniu r. Ob=2*PI*r. Uwaga: PI należy zadeklarować jako stałą.
+
+
+Zadanie 1.07: Napisać program obliczający obwód kwadratu o podanym przez użytkownika boku a. Ob=4*a.
+
+
+Zadanie 1.08: Napisać program obliczający obwód prostokąta o podanych przez użytkownika bokach a i b. Ob=2*a+2*b.
+
+
+
+Zadanie 1.09: Napisać program obliczający obwód trapezu o podanych przez użytkownika bokach a, b, c i d. Ob=a+b+c+d.
+
+
+Zadanie 1.10: Napisać program obliczający pole powierzchni kuli o promieniu r. P=4*PI*r*r. Uwaga: PI należy zadeklarować jako stałą.
+
+
+Zadanie 2.01: Napisać program tablicujący funkcję y=A*x^2+B w przedziale od 0.0 do 1.0 co 0.1 dla podanych przez użytkownika wartości parametrów A i B.
+
+
+Zadanie 2.02: Napisać program obliczający sumę S=1+2^2+3^2+...+N^2 dla N podanego przez użytkownika.
+
+
+Zadanie 2.03: Napisać program tablicujący funkcję y=2.5*x^3-4.8*x^2+1.1 w przedziale podanym przez użytkownika.
+
+
+Zadanie 2.04: Napisać program obliczający sumę S=S+(1/(2*n-1)) dla n=0 do N (N podane przez użytkownika).
+
+
+Zadanie 2.05: Napisać program tablicujący funkcję y=A*x^3-B*x w przedziale 1 do 10 co 0.5 dla podanych przez użytkownika wartości parametrów A i B.
+
+
+Zadanie 2.06: Napisać program obliczający sumę S=S+(1/(2*n+1)) dla n=0 do N (N podane przez użytkownika).
+
+
+Zadanie 2.07: Napisać program tablicujący funkcję y=1.5*x^2-2.2*x+0.4 w przedziale podanym przez użytkownika.
+
+
+Zadanie 2.08: Napisać program obliczający sumę S=S+(n/(2*n-1)) dla n=0 do N (N podane przez użytkownika).
+
+
+Zadanie 2.09: Napisać program liczący sumę S=1+1/2+1/3+...+1/N dla N podanego przez użytkownika.
+
+
+Zadanie 2.10: Napisać program liczący silnię z liczby podanej przez użytkownika.
+
+
+Zadanie 2.11: Napisać program liczący sumę liczb całkowitych 1+2+3+..+N. Dla N podanego przez użytkownika.
+
+
+Zadanie 2.12: Napisać program wyświetlający kolejne potęgi liczby 2 tzn. 2^1, 2^2, ..., 2^N, dla N podanego przez użytkownika.
+
+
+Zadanie 2.13: Napisać program obliczający sumę S=S+(-2)^n dla n=0 do N (N podane przez użytkownika.
+
+
+Zadanie 2.14: Napisać program wczytujący z klawiatury dwie liczby całkowite, a nastepnie wyświetlający większą z nich.
+
+
+Zadanie 2.15: Napisać program wczytujący z klawiatury liczbę całkowitą, a następnie wyświetlający informację, czy liczba ta jest większa od zera, czy nie.
+
+
+Zadanie 2.16: Napisać program wczytujący z klawiatury liczbę całkowitą, a następnie wyświetlający informację, czy liczba ta jest parzysta, czy nie.
+
+
+Zadanie 2.17: Napisać program wczytujący z klawiatury liczbę całkowitą, a następnie wyświetlający informację, czy liczba ta jest większa niż 10.
+
+
+Zadanie 2.18: Napisać program wczytujący z klawiatury liczbę rzeczywistą, a następnie wyświetlający informację, czy liczba ta jest dodatnia.
+
+
+Zadanie 2.19: Napisać program wczytujący z klawiatury liczbę całkowitą, a następnie wyświetlający informację, czy liczba ta jest podzielna przez 7.
+
+
+Zadanie 2.20: Napisać program wczytujący z klawiatury dwie liczby całkowite, a nastepnie wyświetlający mniejszą z nich.
+
+
+Zadanie 2.21: Napisać program wczytujący z klawiatury liczbę całkowitą, a następnie wyświetlający informację, czy liczba ta jest większa niż 33.
+
+
+Zadanie 2.22: Napisać program wczytujący z klawiatury liczbę rzeczywistą, a następnie wyświetlający informację, czy liczba ta jest większa od zera i jednocześnie mniejsza od 100.
+
+
+Zadanie 2.23: Napisać program wczytujący z klawiatury liczbę całkowitą, a następnie wyświetlający informację, czy liczba ta jest mniejsza od zera, czy nie.
+
+
+Zadanie 2.24: Napisać program wczytujący z klawiatury dwie liczby całkowite, a nastepnie wyświetlający informację, czy liczby te są takie same, czy nie.
+
+
+Zadanie 2.25: Napisać program wczytujący z klawiatury liczbę rzeczywistą, a następnie wyświetlający informację, czy liczba ta jest większa od zera i mniejsza od 10.
+
+
+Zadanie 2.26: Napisać program wczytujący z klawiatury liczbę całkowitą, a następnie wyświetlający informację, czy liczba ta jest większa od 100 i jednocześnie podzielna przez 10.
+
+
+Zadanie 2.27: Napisać program wczytujący z klawiatury liczbę całkowitą, a następnie wyświetlający informację, czy liczba ta jest jednocześnie podzielna przez 2 i przez 3.
+
+
+Zadanie 2.28: Napisać program wczytujący z klawiatury liczbę całkowitą, a następnie wyświetlający jej wartość bezwzględną.
+
+
+Zadanie 2.29: Napisać program wczytujący z klawiatury liczbę całkowitą, a następnie wyświetlający informację, czy liczba ta jest mniejsza niż 88.
+
+Zadanie 2.30: Napisać program wczytujący z klawiatury liczbę całkowitą, a następnie wyświetlający 1 jeżeli jest ona większa od zera, -1 jeżeli jest mniejsza od zera, lub 0 – jeżeli jest równa zero.
+
+Zadanie 2.31: Napisać program wczytujący z klawiatury liczbę całkowitą, a następnie wyświetlający informację, czy liczba ta jest podzielna przez 3.
+
+Zadanie 2.32: Napisać program wczytujący z klawiatury liczbę całkowitą, a następnie wyświetlający informację, czy liczba ta jest mniejsza niż 15.
+
+Zadanie 2.33: Napisać program wczytujący z klawiatury liczbę rzeczywistą, a następnie wyświetlający jej wartość bezwzględną.
+
+
+Zadanie 2.34 (*): Napisać program obliczający pierwiastki równania kwadratowego A*x*x+B*x+C dla A,B,C podanego przez użytkownika.
+
+Zadanie 2.35 (*): Napisać program obliczający N-ty element ciągu Fibonacciego.
+
+Zadanie 2.36 (**): Napisać program znajdujący pierwiastek równania kwadratowego A*x*x+B*x+C metodą bisekcji – użytkownik podaje współczynniki równania A,B,C, początkowy przedział x1,x2 oraz oczekiwaną dokładność.
+
+
+Zadanie 3.01: Napisać program wczytujący do tablicy 10 liczb typu integer podanych przez użytkownika i wyświetlający ich srednią.
+
+
+Zadanie 3.02: Napisać program wczytujący do tablicy 10 liczb typu integer podanych przez użytkownika i wyświetlający najmniejszą i najwiekszą z nich.
+
+
+Zadanie 3.03: Napisać program wczytujący do tablicy 10 liczb typu real podanych przez użytkownika i wyświetlający ich średnią.
+
+
+Zadanie 3.04: Napisać program wczytujący do tablicy 10 liczb typu real podanych przez użytkownika i wyświetlający najmniejszą i najwiekszą z nich.
+
+
+Zadanie 3.05: Napisać program wczytujący do tablicy 10 liczb typu integer podanych przez użytkownika i wyświetlający ich sumę.
+
+
+Zadanie 3.06: Napisać program wczytujący do tablicy 10 liczb typu real podanych przez użytkownika i wyświetlający ich sumę.
+
+
+Zadanie 3.07: Napisać program który wypełnia 10-cio elementową tablicę typu integer kolejnymi potęgami liczby 2, a następnie wyświetla tą tablicę na ekran.
+
+
+Zadanie 3.08: Napisać program wczytujący do tablicy 10 liczb typu integer podanych przez użytkownika, sortujący te liczby rosnąco, a następnie wyświetlający je na ekran.
+
+
+Zadanie 3.09: Napisać program wczytujący do tablicy 10 liczb typu integer podanych przez użytkownika, sortujący te liczby malejąco, a następnie wyświetlający je na ekran.
+
+
+Zadanie 3.10: Napisać program wczytujący do tablicy 10 liczb typu integer podanych przez użytkownika, a nastepnie wyświetlający ile jest wśród nich liczb parzystych i nieparzystych.
+
+
+Zadanie 3.11: Napisać program wczytujący do tablicy 10 liczb typu integer podanych przez użytkownika, a nastepnie wyświetlający ile jest wśród nich liczb dodatnich i ujemnych.
+
+
+Zadanie 3.12: Napisać program wczytujący do tablicy 10 liczb typu integer podanych przez użytkownika, a następnie wyświetlający je w odwrotnej kolejności.
+
+
+Zadanie 3.13: Napisać dwuargumentową funkcje która podnosi argument pierwszy do potęgi określonej przez argument drugi. Pierwszy argument ma byc typu real, a drugi integer (założyć, że zawsze będzie większy od 0). Funkcja ma zwracać wartość typu real.
+
+
+Zadanie 3.14: Napisać dwuargumentową funkcje która zwraca większy z podanych argumentów. Oba argumenty oraz zwracana wartość mają być typu integer.
+
+
+Zadanie 3.15: Napisać dwuargumentową funkcje która zwraca mniejszy z podanych argumentów. Oba argumenty oraz zwracana wartość mają być typu integer.
+
+
+Zadanie 3.16: Napisać dwuargumentową procedurę która zamienia wartości dwóch argumentów typu integer, tzn. jeżeli argumentami procedury są: x1=A i x2=B, to po jej zakończeniu powinno być x1=B i x2=A.
+
+
+Zadanie 3.17: Napisać dwuargumentową funkcję której argumentami są: tablica liczb typu integer, oraz liczba typu integer określająca rozmiar tablicy. Funkcja ma zwracać największą liczbę znalezioną w tablicy.
+
+
+Zadanie 3.18: Napisać dwuargumentową funkcję której argumentami są: tablica liczb typu integer, oraz liczba typu integer określająca rozmiar tablicy. Funkcja ma zwracać średnią liczb z tablicy.
+
+
+Zadanie 3.19: Napisać dwuargumentową funkcję której argumentami są: tablica liczb typu integer, oraz liczba typu integer określająca rozmiar tablicy. Funkcja ma zwracać ilość wystąpień liczby 2 w tablicy.
+
+
+Zadanie 3.20: Napisać jednoargumentową funkcję (argument typu całkowitego) która zwraca 1 jeżeli argument jest liczbą pierwszą, lub 0 gdy nie jest. Uwaga: liczba pierwsza to liczba podzielna tylko przez 1 i samą siebie.
+
+
+Zadanie 3.21: Napisać dwuargumentową procedurę której argumentami są: tablica liczb typu integer, oraz liczba typu integer określająca rozmiar tablicy. Procedura ma sortować tablicę malejąco.
+
+
+Zadanie 3.22: Napisać funkcję obliczającą rozwiązania równania kwadratowego Ax2+Bx+C=0. Argumentami funkcji (typ real) są współczynniki równania (A, B, C), oraz zmienne x1 i x2 poprzez które funkcja zwraca policzone rozwiązania. Dodatkowo funkcja powinna zwracać liczbę znalezionych rozwiązań (typ całkowity). Uwaga: Aby znaleźć rozwiązania równania kwadratowego należy najpierw obliczyć deltę=B2-4AC. Jeżeli delta > 0 to x1=(-b-sqrt(delta))/2a, x2=(-b+sqrt(delta))/2a. Jeżeli delta=0 to x1=x2=-b/2a. Jeżeli delta < 0 to równanie nie ma rozwiązań.
+
+
+Zadanie 3.23: Napisać dwuargumentową funkcję (argumenty x,y oraz zwracana wartość są typu real) zwracającą długość wektora (x,y). Długość wynosi L=sqrt(x2+y2).
+
+
+Zadanie 3.24: Napisać jednoargumentową funkcję której argumentem jest 3-elementowa tablica typu real. Funkcja ma zwracać długość wektora którego współrzędne zapisane są w tablicy, tzn. Jeżeli w tablicy są liczby A, B i C, to długość wektora wynosi L=sqrt(A2+B2+C2).
+
+
+Zadanie 3.25: Napisać 1-argumentową funkcję przeliczającą temperaturę w skali Fahrenheita na skalę Celsjusza według wzoru C=(5/9)(F-32). Zarówno argument, jak i zwracana wartość mają być typu real.
+
+
+Zadanie 3.26: Napisać dwuargumentową procedurę której argumentami są: tablica liczb typu integer, oraz liczba typu integer określająca rozmiar tablicy. Procedura ma zerować wszystkie elementy tablicy będącej argumentem procedury.
+
+
+Zadanie 3.27: Napisać dwuargumentową procedurę której argumentami są: tablica liczb typu integer, oraz liczba typu integer określająca rozmiar tablicy. Procedura ma wczytywać z klawiatury liczby całkowite i umieszczać je w kolejnych elementach tablicy.
+
+
+Zadanie 3.28: Napisać dwuargumentową procedurę której argumentami są: tablica liczb typu integer, oraz liczba typu integer określająca rozmiar tablicy. Procedura ma wyświetlać kolejne elementy tablicy na ekran.
+
+
+Zadanie 3.29: Napisać 3-argumentową funkcję której argumentami są: tablica liczb typu integer (T), liczba typu integer (N) określająca rozmiar tablicy, oraz jeszcze jedna liczba całkowita (C). Funkcja ma zwracać ilość wystąpień liczby C w tablicy.
+
+
+
+Zadanie 3.30 (*): Napisać program wyszukujący liczby pierwsze w zakresie od 1 do 10 000 metodą sita Eratostenesa.
+
+
+Zadanie 3.31 (*): Mamy listę 1000 elementów (ponumerowanych od 1 do 1000). Wykreślamy co siódmy element (tzn. element nr 7, 14 itd.). Po dojściu do końca listy kontynuujemy od jej początku omijając elementy już wykreślone. Procedurę prowadzimy aż zostanie 10 ostanich elementów. Jakie to elementy? Napisać program rozwiązujący to zadanie.
+
+
+Zadanie 3.32 (*): Załóżmy, że użytkownik zdefiniował dowolną funkcję jednej zmiennej (zadeklarowaną jako double f(double x) ). Napisać program liczący całkę oznaczoną tej funkcji w przedziale podanym przez użytkownika metodą trapezów.
+
+
+Zadanie 3.33 (**) UWAGA!! Zadanie dla bardzo odważnych!: Na bezludnej wyspie mieszkają tylko dwa gatunki zwierząt – lisy i zające. Liczby zwierząt obu gatunków są od siebie zalezne i pozostają w równowadze. Np. zwiekszenie liczby zajęcy powoduje, że lisy mają więcej pożywienia i szybciej się mnożą. Więcej lisów zjada zające, których liczba maleje – tym samym powodując zmniejszenie ilości pożywienia i spadek populacji lisów. Zachowanie takiego układu opisują tzw. równania różniczkowe Lotki-Volterry (http://www.personal.psu.edu/auk183/LotkaVolterra/LotkaVolterra1.html). Napisać program symulujący zachowanie się populacji lisów i zajęcy dla podanych przez użytkownika warunków początkowych. Zastosować dowolny algorytm rozwiązywania równań różniczkowych.
+
+
+Zadanie 4.01 Napisać 2argumentową funkcję, której argumentami jest tablica liczb całkowitych, oraz liczba całkowita określająca rozmiar tablicy. Funkcja ma zwracać sumę elementów w tablicy. Napisać program demonstrujący działanie powyższej funkcji.
+
+
+Zadanie 4.02 Napisać 2argumentową funkcję, której argumentami jest tablica liczb całkowitych, oraz liczba całkowita określająca rozmiar tablicy. Funkcja ma zwracać największy element w tablicy. Napisać program demonstrujący działanie powyższej funkcji.
+
+
+Zadanie 4.03 Napisać 2argumentową funkcję, której argumentami jest tablica liczb całkowitych, oraz liczba całkowita określająca rozmiar tablicy. Funkcja ma zwracać ilość wystąpień liczby 0 w tablicy. Napisać program demonstrujący działanie powyższej funkcji.
+
+
+Zadanie 4.04 Napisać 3argumentową funkcję, której argumentami jest tablica liczb całkowitych, liczba całkowita określająca rozmiar tablicy, oraz liczba całkowita x. Funkcja ma zwracać ilość wystąpień liczby x w tablicy. Napisać program demonstrujący działanie powyższej funkcji.
+
+
+Zadanie 4.05 Napisać 2argumentową funkcję, której argumentami jest tablica liczb całkowitych, oraz liczba całkowita określająca rozmiar tablicy. Funkcja ma wypełniać tablicę kolejnymi potęgami liczby 2. Napisać program demonstrujący działanie powyższej funkcji.
+
+
+Zadanie 4.06 Napisać 2argumentową funkcję, której argumentami jest tablica liczb całkowitych, oraz liczba całkowita określająca rozmiar tablicy. Funkcja ma wyświetlać elementy tablicy w odwrotnej kolejności („od końca”). Napisać program demonstrujący działanie powyższej funkcji.
+
+
+Zadanie 4.07 Napisać 2argumentową funkcję, której argumentami jest tablica liczb całkowitych, oraz liczba całkowita określająca rozmiar tablicy. Funkcja ma wypełniać tablicę kolejnymi liczbami parzystymi. Napisać program demonstrujący działanie powyższej funkcji.
+
+
+Zadanie 4.08 Napisać 2argumentową funkcję, której argumentami jest tablica liczb całkowitych, oraz liczba całkowita określająca rozmiar tablicy. Funkcja ma zerować wszystkie elementy tablicy. Napisać program demonstrujący działanie powyższej funkcji.
+
+
+Zadanie 4.09 Napisać 2argumentową funkcję, której argumentami jest tablica liczb całkowitych, oraz liczba całkowita n określająca rozmiar tablicy. Funkcja ma pobierać od użytkownika (z klawiatury) n liczb całkowitych i umieścić je w kolejnych komórkach tablicy. Napisać program demonstrujący działanie powyższej funkcji.
+
+
+Zadanie 4.10 Napisać 2argumentową funkcję, której argumentami jest tablica liczb całkowitych, oraz liczba całkowita określająca rozmiar tablicy. Funkcja ma zwracać średnią liczb z tablicy. Napisać program demonstrujący działanie powyższej funkcji.
+
+
+Zadanie 4.11 Napisać 4argumentową funkcję, której argumentami są trzy tablice liczb całkowitych reprezentujące wektory a,b, c, oraz liczba n określająca rozmiar wektorów. Funkcja ma realizować dodawanie wektorów a i b a wynik umieścić w wektorze c (sumę wektorów oblicza się według zasady: ity element sumy jest sumą itych elementów dodawanych wektorów). Napisać program demonstrujący działanie powyższej funkcji.
+
+
+Zadanie 4.12 Napisać 2argumentową funkcję, której argumentami jest tablica liczb całkowitych, oraz liczba całkowita n określająca rozmiar tablicy. Funkcja ma odwrócić kolejność elementów w tablicy. Napisać program demonstrujący działanie powyższej funkcji.
+
+
+Zadanie 4.13 Napisać 3argumentową funkcję, której argumentami jest tablica liczb całkowitych, liczba całkowita określająca rozmiar tablicy, oraz liczba całkowita x. Funkcja ma zwracać pozycję pierwszego wystąpienia liczby x w tablicy. Jeżeli x nie występuje w tablicy to funkcja ma zwracać 1. Napisać program demonstrujący działanie powyższej funkcji.
+
+
+Zadanie 4.14 Napisać 2argumentową funkcje, której argumentami są tablice a i b reprezentujące 3wymiarowe wektory. Funkcja ma zwracać iloczyn skalarny wektorów a i b. Napisać program demonstrujący działanie powyższej funkcji.
+
+
+Zadanie 4.15 Napisać 4argumentową funkcję, której argumentami są: tablica liczb całkowitych a, liczba n określająca rozmiar tablicy, oraz liczby całkowite x i y. Funkcja ma znaleźć w tablicy wszystkie wystąpienia liczby x i zastąpić je liczbą y. Napisać program demonstrujący działanie powyższej funkcji.
+
+
+Zadanie 4.16 (*) Napisać 2argumentową funkcję, której argumentami jest tablica liczb całkowitych, oraz liczba całkowita określająca rozmiar tablicy. Funkcja ma sortować rosnąco liczby w tablicy. Proszę wykorzystać algorytm sortowania bąbelkowego. Napisać program demonstrujący działanie powyższej funkcji.
+
+
+Zadanie 4.17 (*) Zaimplementować 4działaniowy kalkulator działający w notacji RPN (Odwrotna Notacja Polska). Potrzebny w tej implementacji stos zaimplementować w postaci tablicy.
+
+
+Zadanie 4.18 (**) Napisać program szukający kwadratów magicznych o zadanym przez użytkownika boku metodą przeszukiwania siłowego („brute force”).
+
+
+Zadanie 4.19 (**) Napisać program rozwiązujący metodą przeszukiwania siłowego problem tzw. Nkrólowych tzn. takiego sposobu ustawienia N królowych na szachownicy o boku N, aby się wzajemnie nie szachowały.
+
+
+
+
+
+Zadanie 5.01 Napisać 1argumentową funkcję, której argumentem jest łańcuch znaków s. Funkcja ma usuwać wszystkie spacje z łańcucha s. Napisać program demonstrujący działanie powyższej funkcji.
+
+
+Zadanie 5.02 Napisać 1argumentową funkcję, której argumentem jest łańcuch znaków s. Funkcja ma zwracać liczbe wystąpień litery 'a' w łańcuchu s. Napisać program demonstrujący działanie powyższej funkcji.
+
+
+Zadanie 5.03 Napisać 1argumentową funkcję, której argumentem jest łańcuch znaków s. Przyjmując, że zmienna s zawiera prawidłowy PESEL, wyświetlić zawartą w nim datę urodzenia w formacie DD/MM/RR. Napisać program demonstrujący działanie powyższej funkcji.
+
+
+Zadanie 5.04 Napisać 1argumentową funkcję, której argumentem jest łańcuch znaków s. Funkcja ma zamieniać wszystkie małe litery w s na wielkie litery. Napisać program demonstrujący działanie powyższej funkcji.
+
+
+Zadanie 5.05 Napisać 1argumentową funkcję, której argumentem jest łańcuch znaków s. Funkcja ma wyświetlać tekst z s w taki sposób, aby między każdymi dwoma znakami był znak podkreślenia (np. ALA A_L_A). Napisać program demonstrujący › działanie powyższej funkcji.
+
+
+Zadanie 5.06 Napisać 1argumentową funkcję, której argumentem jest łańcuch znaków s. Funkcja ma wyświetlać tekst z s w taki sposób, aby każda kolejna litera była w nowej linii. Napisać program demonstrujący działanie powyższej funkcji.
+
+
+Zadanie 5.07 Napisać 1argumentową funkcję, której argumentem jest łańcuch znaków s. Funkcja ma zamieniać wszystkie spacje na znak podkreślenia '_'. Napisać program demonstrujący działanie powyższej funkcji.
+
+
+Zadanie 5.08 Napisać 1argumentową funkcję, której argumentem jest łańcuch znaków s. Funkcja ma wyświetlać tekst w taki sposób, aby każdy wyraz był w nowej linii. Napisać program demonstrujący działanie powyższej funkcji.
+
+
+Zadanie 5.09 Napisać 1argumentową funkcję, której argumentem jest łańcuch znaków s. Funkcja ma zwracać z ilu wyrazów składa się tekst w s. Napisać program demonstrujący działanie powyższej funkcji.
+
+
+Zadanie 5.10 Napisać 1argumentową funkcję, której argumentem jest łańcuch znaków s. Funkcja ma wyświetlać tekst z s „od końca”. Napisać program demonstrujący działanie powyższej funkcji.
+
+
+Zadanie 5.11 Napisać 1argumentową funkcję, której argumentem jest łańcuch znaków s. Funkcja ma wczytać z klawiatury tekst s1 i zwrócić 1 jeżeli teksty s i s1 są takie same lub 0 w przeciwnym wypadku. Napisać program demonstrujący działanie powyższej funkcji.
+
+
+Zadanie 5.12 Napisać 1argumentową funkcję, której argumentem jest łańcuch znaków s. Funkcja ma zwrócić 1 jeżeli tekst w s jest palindromem lub 0 jeżeli nie jest. Napisać program demonstrujący działanie powyższej funkcji.
+
+
+Zadanie 5.13 Napisać 1argumentową funkcję, której argumentem jest łańcuch znaków s. Funkcja ma zwrócić 1 jeżeli tekst w s zawiera tylko cyfry lub 0 w przeciwnym wypadku. Napisać program demonstrujący działanie powyższej funkcji.
+
+
+Zadanie 5.14 Napisać 2argumentową funkcję, której argumentami są: łańcuch znaków s oraz zmienna znakowa c. Funkcja ma zwracać liczbę wystapień znaku c w łańcuchu s. Napisać program demonstrujący działanie powyższej funkcji.
+
+
+Zadanie 5.15 Napisać 3argumentową funkcję, której argumentami są: łańcuch znaków s, oraz dwie zmienne znakowe c1 i c2. Funkcja ma zastępować w tekście s wszystkie wystąpienia znaku c1 znakiem c2. Napisać program demonstrujący działanie powyższej funkcji.
+
+
+Zadanie 5.16 Napisać 2argumentową funkcję, której argumentami są łańcuchy znaków s1 i s2. Funkcja ma zwracać 1 jeżeli łańcuch s2 jest zawarty w łańcuchu s1, lub 0 w przeciwnym wypadku.
+
+
+Zadanie 5.17 (*) Znaleźć wszystkie pary liczb 2cyfrowych ‘ab’ i ‘cd’ takich, że rezultat działania ab/cd * abcd daje wynik będący palindromem. Przykład: 11/20 *1120 = 616.
+
+
+Zadanie 5.18 (*) Znaleźć wszystkie 4cyfrowe liczby całkowite ‘abcd’ dla których spełnione jest równanie: (ab+cd)^2=abcd.
+
+
+Zadanie 5.19 (*) Znaleźć wszystkie liczby pierwsze w zakresie 30 do 30000 takie, że zarówno suma, jak i iloczyn ich cyfr są również liczbami pierwszymi.
+
+
+Zadanie 5.20 (*) Znaleźć wszystkie 3cyfrowe liczby pierwsze, dla których wszystkie permutacje ich cyfr są również liczbami pierwszymi.
+
+
+Zadanie 5.21 (**) Zmodyfikować implementację kalkulatora RPN z zadania 4.17 tak, aby zamiast stosować statyczną tablicę o z góry założonej wielkości, zastosować dynamiczną strukturę danych – stos.
+
+
+Zadanie 5.22 (**) Metoda siłowa rozwiązywania problemu Nkrólowych (patrz zadanie 4.19) jest bardzo nieefektywna. Zaproponować wydajniejszy algorytm odrzucający grupy złych rozwiązań bez konieczności przeglądania ich wszystkich.
+
+
+Zadanie 5.23 (**) Napisać program analizujący strategię rozgrywki w grę „kółko i krzyżyk”. Na podstawie podanego przez użytkownika stanu gry program powinien analizować wszystkie możliwe posunięcia i określać najlepszą strategię dla każdego z graczy. (UWAGA! Zadania 5.21 – 5.23 mogą wymagać zastosowania elementu języka, który nie był omawiany na zajęciach struktur)
+
+
+Zadanie 6.01 Napisać program składający się z dwóch następujących funkcji:
+1) Funkcja zapisująca do pliku tekstowego o nazwie ‘dane.txt’ 20 kolejnych liczb całkowitych.
+2) Funkcja czytająca z pliku tekstowego o nazwie ‘dane.txt’ 20 kolejnych liczb całkowitych i zwracająca ich średnią.
+
+
+Zadanie 6.02 Napisać program składający się z dwóch następujących funkcji:
+1) Funkcja zapisująca do pliku binarnego o nazwie ‘dane.dat’ 10 kolejnych potęg liczby 2.
+2) Funkcja czytająca z pliku binarnego o nazwie ‘dane.dat’ 10 kolejnych liczb całkowitych i zwracająca ich sumę.
+
+
+Zadanie 6.03 Napisać program składający się z dwóch następujących funkcji:
+1) Funkcja zapisująca do pliku tekstowego o nazwie ‘dane.txt’ 100 kolejnych liczb całkowitych.
+2) Funkcja czytająca z pliku tekstowego o nazwie ‘dane.txt’ co drugą liczbę w nim zapisaną i obliczająca ich średnią.
+
+
+Zadanie 6.04 Napisać program składający się z dwóch następujących funkcji:
+1) Funkcja zapisująca do pliku binarnego o nazwie ‘dane.dat’ 50 kolejnych liczb całkowitych.
+2) Funkcja zwracająca ile liczb całkowitych zapisanych jest w pliku ‘dane.dat’.
+
+
+Zadanie 6.05 Napisać program składający się z dwóch następujących funkcji:
+1) Funkcja zapisująca do pliku tekstowego o nazwie ‘dane.txt’ n kolejnych liczb całkowitych (n jest argumentem funkcji)
+2) Funkcja wyświetlająca wszystkie liczby zapisane w pliku ‘dane.txt’.
+
+
+Zadanie 6.06 Napisać program składający się z dwóch następujących funkcji:
+1) Funkcja zapisująca do pliku binarnego o nazwie ‘dane.dat’ 10 kolejnych liczb rzeczywistych od 0.001 do 0.10 co 0.001.
+2) Funkcja wyświetlająca na ekran wszystkie liczby rzeczywiste zapisane w pliku ‘dane.dat’.
+
+
+Zadanie 6.07 Napisać program składający się z dwóch następujących funkcji:
+1) Funkcja zapisująca do pliku tekstowego o nazwie ‘dane.txt’ n kolejnych liczb całkowitych (n jest argumentem funkcji)
+2) Funkcja wyświetlająca największą i najmniejszą z liczb zapisanych w pliku ‘dane.txt’.
+
+
+Zadanie 6.08 Napisać program składający się z dwóch następujących funkcji:
+1) Funkcja zapisująca do pliku binarnego o nazwie ‘dane.dat’ 10 liczb całkowitych podanych przez użytkownika
+2) Funkcja wyświetlająca na ekran średnią z liczb zapisanych w pliku binarnym ‘dane.dat’.
+
+
+Zadanie 6.09 Napisać program składający się z dwóch następujących funkcji:
+1) Funkcja zapisująca do pliku binarnego o nazwie ‘dane.dat’ 10 pierwszych parzystych liczb całkowitych.
+2) Funkcja wyświetlająca na ekran liczby całkowite z pliku binarnego ‘dane.dat’
+
+
+Zadanie 6.10 Napisać program składający się z dwóch następujących funkcji:
+1) Funkcja zapisująca do pliku tekstowego o nazwie ‘dane.txt’ 20 kolejnych liczb całkowitych.
+2) Funkcja wyświetlająca sumy każdych dwóch kolejnych liczb zapisanych w pliku tekstowym ‘dane.txt’.
+
+
+Zadanie 6.11 (*) Napisać program „notes z telefonami”. Program powinien przechowywać rekordy z następującymi informacjami: imię, nazwisko, numer telefonu. Pomiędzy uruchomieniami programu dane należy przechowywać w pliku. Program powinien umożliwiać dodawanie, usuwanie oraz szukanie rekordów na podstawie nazwiska.
+
+
+Zadanie 6.12 (*) Napisać program „katalog książek”. Program powinien przechowywać rekordy z następującymi informacjami: autor, tytuł. Pomiędzy uruchomieniami programu dane należy przechowywać w pliku. Program powinien umożliwiać dodawanie, usuwanie oraz szukanie rekordów na podstawie autora lub tytułu (również na podstawie fragmentu nazwiska autora lub
+tytułu ksiązki).
+

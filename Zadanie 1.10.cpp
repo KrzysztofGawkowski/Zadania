@@ -1,4 +1,4 @@
-// Zadanie 1.10: Napisaæ program obliczaj¹cy pole powierzchni kuli o promieniu r. P=4*PI*r*r. Uwaga: PI nale¿y zadeklarowaæ jako sta³¹.
+// Zadanie 1.10: NapisaÄ‡ program obliczajÅ¡cy pole powierzchni kuli o promieniu r. P=4*PI*r*r. Uwaga: PI naleÅ¼y zadeklarowaÄ‡ jako staÅ‚Å¡.
 
 #include <iostream>
 
@@ -10,11 +10,11 @@ float r;
 
 int main()
 {
-	cout << "Podaj wielkosc promienia r aby obliczyc pole kola: ";
+	cout << "Podaj wielkosc promienia r aby obliczyc pole powierchni kuli: ";
 		cin >> r;
 			if (r==0) cout << "Nie mnozymy zer! " <<endl;
 	
-	cout << "Pole powierzchni kola wynosi: " << 4*PI*r*r << endl;
+	cout << "Pole powierzchni kuli wynosi: " << 4*PI*r*r << endl;
 
 return 0;
 }

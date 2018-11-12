@@ -1,5 +1,10 @@
-Zadanie 1.01: Napisać program obliczający pole koła o podanym przez użytkownika promieniu (Wzór na pole koła P=pi*r*r). Uwaga: Wartość PI (3.1415) należy zadeklarować jako stałą.
+Zadanie 0.01: Napisać program który wyświetli sumę 3 liczb oraz średnią z pracy domowej
 
+Zadanie 0.02: Napisać program który zamieni stopnie Celsjusza na Fahrenheita i Kelvina
+
+
+Zadanie 1.01: Napisać program obliczający pole koła o podanym przez użytkownika promieniu (Wzór na pole koła P=pi*r*r). 
+Uwaga: Wartość PI (3.1415) należy zadeklarować jako stałą.
 
 Zadanie 1.02: Napisać program obliczający pole prostokąta o podanych przez użytkownika bokach a i b (P=a*b).
 
@@ -11,7 +16,6 @@ Zadanie 1.04: Napisać program obliczający pole równoległoboku o podanych prz
 
 
 Zadanie 1.05: Napisać program obliczający pole trapezu o podanych przez użytkownika długościach podstaw (a i b), oraz wysokości (h). P=0.5*(a+b)*h.
-
 
 Zadanie 1.06: Napisać program obliczający obwód koła o podanym przez użytkownika promieniu r. Ob=2*PI*r. Uwaga: PI należy zadeklarować jako stałą.
 
@@ -27,6 +31,9 @@ Zadanie 1.09: Napisać program obliczający obwód trapezu o podanych przez uży
 
 
 Zadanie 1.10: Napisać program obliczający pole powierzchni kuli o promieniu r. P=4*PI*r*r. Uwaga: PI należy zadeklarować jako stałą.
+
+
+
 
 
 Zadanie 2.01: Napisać program tablicujący funkcję y=A*x^2+B w przedziale od 0.0 do 1.0 co 0.1 dla podanych przez użytkownika wartości parametrów A i B.
@@ -124,11 +131,14 @@ Zadanie 2.32: Napisać program wczytujący z klawiatury liczbę całkowitą, a n
 Zadanie 2.33: Napisać program wczytujący z klawiatury liczbę rzeczywistą, a następnie wyświetlający jej wartość bezwzględną.
 
 
+
 Zadanie 2.34 (*): Napisać program obliczający pierwiastki równania kwadratowego A*x*x+B*x+C dla A,B,C podanego przez użytkownika.
 
 Zadanie 2.35 (*): Napisać program obliczający N-ty element ciągu Fibonacciego.
 
 Zadanie 2.36 (**): Napisać program znajdujący pierwiastek równania kwadratowego A*x*x+B*x+C metodą bisekcji – użytkownik podaje współczynniki równania A,B,C, początkowy przedział x1,x2 oraz oczekiwaną dokładność.
+
+
 
 
 Zadanie 3.01: Napisać program wczytujący do tablicy 10 liczb typu integer podanych przez użytkownika i wyświetlający ich srednią.
@@ -229,6 +239,9 @@ Zadanie 3.32 (*): Załóżmy, że użytkownik zdefiniował dowolną funkcję jed
 
 
 Zadanie 3.33 (**) UWAGA!! Zadanie dla bardzo odważnych!: Na bezludnej wyspie mieszkają tylko dwa gatunki zwierząt – lisy i zające. Liczby zwierząt obu gatunków są od siebie zalezne i pozostają w równowadze. Np. zwiekszenie liczby zajęcy powoduje, że lisy mają więcej pożywienia i szybciej się mnożą. Więcej lisów zjada zające, których liczba maleje – tym samym powodując zmniejszenie ilości pożywienia i spadek populacji lisów. Zachowanie takiego układu opisują tzw. równania różniczkowe Lotki-Volterry (http://www.personal.psu.edu/auk183/LotkaVolterra/LotkaVolterra1.html). Napisać program symulujący zachowanie się populacji lisów i zajęcy dla podanych przez użytkownika warunków początkowych. Zastosować dowolny algorytm rozwiązywania równań różniczkowych.
+
+
+
 
 
 Zadanie 4.01 Napisać 2argumentową funkcję, której argumentami jest tablica liczb całkowitych, oraz liczba całkowita określająca rozmiar tablicy. Funkcja ma zwracać sumę elementów w tablicy. Napisać program demonstrujący działanie powyższej funkcji.
@@ -415,4 +428,3 @@ Zadanie 6.11 (*) Napisać program „notes z telefonami”. Program powinien prz
 
 Zadanie 6.12 (*) Napisać program „katalog książek”. Program powinien przechowywać rekordy z następującymi informacjami: autor, tytuł. Pomiędzy uruchomieniami programu dane należy przechowywać w pliku. Program powinien umożliwiać dodawanie, usuwanie oraz szukanie rekordów na podstawie autora lub tytułu (również na podstawie fragmentu nazwiska autora lub
 tytułu ksiązki).
-

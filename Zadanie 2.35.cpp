@@ -1,4 +1,4 @@
-// Zadanie 2.35 (*): Napisaæ program obliczaj¹cy N-ty element ci¹gu Fibonacciego.
+// Zadanie 2.35 (*): NapisaÃ¦ program obliczajÂ¹cy N-ty element ciÂ¹gu Fibonacciego.
 
 #include <iostream>
 #include <iomanip>
